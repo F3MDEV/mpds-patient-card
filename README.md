@@ -90,7 +90,7 @@ ReactDOM.render(<App />, document.querySelector('#app'));
         </div>
       </td>
       <td>
-        <span>-</span>
+        <span>false</span>
       </td>
     </tr>
     <tr>
@@ -108,7 +108,7 @@ ReactDOM.render(<App />, document.querySelector('#app'));
         </div>
       </td>
       <td>
-        <span>-</span>
+        <span>PATIENT NAME</span>
       </td>
     </tr>
     <tr>
@@ -126,7 +126,7 @@ ReactDOM.render(<App />, document.querySelector('#app'));
         </div>
       </td>
       <td>
-        <span>-</span>
+        <span>SNS</span>
       </td>
     </tr>
     <tr>
@@ -144,7 +144,7 @@ ReactDOM.render(<App />, document.querySelector('#app'));
         </div>
       </td>
       <td>
-        <span>-</span>
+        <span>1234567890</span>
       </td>
     </tr>
     <tr>
@@ -162,7 +162,7 @@ ReactDOM.render(<App />, document.querySelector('#app'));
         </div>
       </td>
       <td>
-        <span>-</span>
+        <span>90</span>
       </td>
     </tr>
     <tr>
@@ -178,7 +178,7 @@ ReactDOM.render(<App />, document.querySelector('#app'));
         </div>
       </td>
       <td>
-        <span>-</span>
+        <span>R</span>
       </td>
     </tr>
     <tr>
@@ -196,7 +196,7 @@ ReactDOM.render(<App />, document.querySelector('#app'));
         </div>
       </td>
       <td>
-        <span>-</span>
+        <span>9</span>
       </td>
     </tr>
     <tr>
@@ -214,7 +214,7 @@ ReactDOM.render(<App />, document.querySelector('#app'));
         </div>
       </td>
       <td>
-        <span>-</span>
+        <span>B</span>
       </td>
       </tr>
       <tr>
@@ -232,7 +232,7 @@ ReactDOM.render(<App />, document.querySelector('#app'));
           </div>
         </td>
         <td>
-          <span>-</span>
+          <span>Age</span>
         </td>
       </tr>
       <tr>
@@ -250,7 +250,7 @@ ReactDOM.render(<App />, document.querySelector('#app'));
           </div>
         </td>
         <td>
-          <span>-</span>
+          <span>Gender</span>
         </td>
       </tr>
       <tr>
@@ -268,7 +268,7 @@ ReactDOM.render(<App />, document.querySelector('#app'));
           </div>
         </td>
         <td>
-          <span>-</span>
+          <span>Occupation</span>
         </td>
       </tr>
       <tr>
@@ -286,7 +286,7 @@ ReactDOM.render(<App />, document.querySelector('#app'));
           </div>
         </td>
       <td>
-        <span>-</span>
+        <span>Nationality</span>
       </td>
     </tr>
     <tr>
@@ -304,7 +304,7 @@ ReactDOM.render(<App />, document.querySelector('#app'));
         </div>
       </td>
       <td>
-        <span>-</span>
+        <span>Hospitalisation</span>
       </td>
     </tr>
     <tr>
@@ -322,7 +322,7 @@ ReactDOM.render(<App />, document.querySelector('#app'));
         </div>
       </td>
       <td>
-        <span>-</span>
+        <span>51 (23.03.1969)</span>
       </td>
     </tr>
     <tr>
@@ -340,7 +340,7 @@ ReactDOM.render(<App />, document.querySelector('#app'));
         </div>
       </td>
       <td>
-        <span>-</span>
+        <span>Male</span>
       </td>
     </tr>
     <tr>
@@ -358,7 +358,7 @@ ReactDOM.render(<App />, document.querySelector('#app'));
         </div>
       </td>
       <td>
-        <span>-</span>
+        <span>Teacher</span>
       </td>
     </tr>
     <tr>
@@ -376,7 +376,7 @@ ReactDOM.render(<App />, document.querySelector('#app'));
         </div>
       </td>
       <td>
-        <span>-</span>
+        <span>PT</span>
       </td>
     </tr>
     <tr>
@@ -394,7 +394,7 @@ ReactDOM.render(<App />, document.querySelector('#app'));
         </div>
       </td>
       <td>
-        <span>-</span>
+        <span>1009 days (18.01.2018)</span>
       </td>
     </tr>
     <tr>
@@ -488,24 +488,6 @@ ReactDOM.render(<App />, document.querySelector('#app'));
     </tr>
     <tr>
       <td>
-        <span>colorOfTheText</span>
-      </td>
-      <td>
-        <div>
-          <span>Color of the text.</span>
-        </div>
-        <div>
-          <div>
-            <span>string</span>
-          </div>
-        </div>
-      </td>
-      <td>
-        <span>-</span>
-      </td>
-    </tr>
-    <tr>
-      <td>
         <span>colorBottomLink</span>
       </td>
       <td>
@@ -519,7 +501,7 @@ ReactDOM.render(<App />, document.querySelector('#app'));
         </div>
       </td>
       <td>
-        <span>-</span>
+        <span>#4cb3ba</span>
       </td>
     </tr>
     <tr>
@@ -537,7 +519,7 @@ ReactDOM.render(<App />, document.querySelector('#app'));
         </div>
       </td>
       <td>
-        <span>-</span>
+        <span>See All</span>
       </td>
     </tr>
     <tr>
